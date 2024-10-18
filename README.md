@@ -9,4 +9,4 @@ wget -O ReconSpider.zip https://academy.hackthebox.com/storage/modules/144/Recon
 unzip ReconSpider.zip
 
 # Run Scrapy <br />
-python3 ReconSpider.py <http://inlanefreight.com>
+python3 ReconSpider.py <http://example.com>
