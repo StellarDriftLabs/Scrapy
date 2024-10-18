@@ -1,7 +1,8 @@
-#Install scrapy <br />
+# Install scrapy <br />
 pip3 install scrapy
 
-#Download the custom spider <br />
+# The next two commands is not required instead download the spider directly from this repo
+# Download the custom spider <br />
 wget -O ReconSpider.zip https://academy.hackthebox.com/storage/modules/144/ReconSpider.v1.2.zip
 
 #Unzip it <br />
